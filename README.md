@@ -1,4 +1,4 @@
-# WebPlotDigitizer 双语离线桌面版
+# WebPlotDigitizer 桌面版
 
 > 基于 WebPlotDigitizer 官方 GitHub 源码构建 Windows 双语离线桌面版
 
