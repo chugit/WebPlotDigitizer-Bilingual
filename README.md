@@ -273,7 +273,7 @@ npm warn deprecated rimraf@3.0.2
 }
 ```
 
-> Rohatgi, A. WebPlotDigitizer, version 5.3.0. https://automeris.io.
+> Rohatgi, A. *WebPlotDigitizer*, version 5.3.0 [Computer software]. https://automeris.io
 
 ```bibtex
 @misc{Marin2017WebPlotDigitizer,
@@ -286,16 +286,16 @@ npm warn deprecated rimraf@3.0.2
   doi           = {10.48550/arXiv.1708.02025}
 }
 ```
-> Marin, F., Rohatgi, A., Charlot, S., 2017. WebPlotDigitizer, a polyvalent and free software to extract spectra from old astronomical publications: Application to ultraviolet spectropolarimetry. arXiv: Instrumentation and Methods for Astrophysics. https://doi.org/10.48550/arXiv.1708.02025.
+> Marin, F., Rohatgi, A., Charlot, S., 2017. WebPlotDigitizer, a polyvalent and free software to extract spectra from old astronomical publications: Application to ultraviolet spectropolarimetry. *arXiv: Instrumentation and Methods for Astrophysics*. https://doi.org/10.48550/arXiv.1708.02025.
 
 ```bibtex
 @software{WebPlotDigitizerBilingual,
-  author  = {chugit},
-  title   = {WebPlotDigitizer-Bilingual: Windows bilingual offline desktop build workflow for WebPlotDigitizer},
+  author  = {Chu, J. C.},
+  title   = {WebPlotDigitizer-Bilingual},
   url     = {https://github.com/chugit/WebPlotDigitizer-Bilingual},
   version = {5.3.0},
   year    = {2026}
 }
 ```
 
-> Chu, J.C., 2026. WebPlotDigitizer-Bilingual. https://github.com/chugit/WebPlotDigitizer-Bilingual.
+> Chu, J. C. (2026). *WebPlotDigitizer-Bilingual*, version 5.3.0 [Computer software]. https://github.com/chugit/RootAnalysis
