@@ -43,6 +43,8 @@ WebPlotDigitizer <version> English
 
 应用顶部菜单提供语言切换入口。
 
+![](界面.png)
+
 ## 仓库文件
 
 | 文件 | 用途 |
