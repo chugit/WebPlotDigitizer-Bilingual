@@ -1,17 +1,32 @@
 # WebPlotDigitizer 桌面版
 
-> 基于 WebPlotDigitizer 官方 GitHub 源码构建中文、英文双语离线桌面版
+[WebPlotDigitizer-Bilingual](https://github.com/chugit/WebPlotDigitizer-Bilingual) 是基于 [WebPlotDigitizer 官方源码](https://github.com/automeris-io/WebPlotDigitizer) 构建的 Windows 中英双语离线桌面版。项目目标是在保留 WebPlotDigitizer 核心功能的基础上，提供一个可在本地运行、支持中文和英文界面、适合科研与工程场景使用的数据提取工具。
 
-## 项目定位
+本项目不是 WebPlotDigitizer 官方发行版，也不是上游项目的替代品。它主要提供一个面向 Windows 的中文、英文双语离线桌面构建流程，便于用户在本地环境中使用 WebPlotDigitizer 的主要功能。
 
-本项目提供一个可复现的构建流程，用于把 WebPlotDigitizer 前端源码封装为 Windows 桌面离线应用。项目本身不托管 [WebPlotDigitizer 官方源码](https://github.com/automeris-io/WebPlotDigitizer "automeris-io/WebPlotDigitizer")；构建脚本会在本地从官方 GitHub 仓库拉取源码。
+## WebPlotDigitizer 简介
 
-核心目标：
+[WebPlotDigitizer](https://automeris.io/docs/) 是一款用于从图表图片中提取数值数据的工具。很多论文、报告、扫描件、产品手册或历史资料中的数据只以图片形式存在，无法直接复制为表格。WebPlotDigitizer 可以通过坐标轴标定、手动取点和辅助识别等方式，将图像中的曲线、散点、柱状图、地图或测量结果转换为可分析的数字数据。
 
-1.  构建 Windows 便携式桌面应用。
-2.  保留 WebPlotDigitizer 的本地图片加载、坐标轴标定、手动取点、数据导出等核心功能。
+简单来说，它可以把“图片里的数据”重新转换成“表格里的数据”。
 
-本项目主要关注**构建流程**，不是官方发行版，也不是 WebPlotDigitizer 上游项目的替代品。
+### 主要用途
+
+WebPlotDigitizer 常用于科研、工程、数据分析和资料整理等场景，例如：
+
+- 从论文图表中提取实验曲线、散点图或柱状图数据。
+- 从产品手册、技术报告、扫描件中恢复性能曲线或测量结果。
+- 将截图、PDF 或扫描图中的图表转换为可编辑、可计算的数据。
+- 在没有原始数据文件的情况下，从已有图像中重建可用数据。
+- 将提取结果导出为 CSV 等格式，用于 Excel、Python、Origin、MATLAB、R 等工具继续分析。
+
+## 本项目特性
+
+- 基于 [WebPlotDigitizer 官方源码](https://github.com/automeris-io/WebPlotDigitizer) 构建。
+- 支持 Windows 桌面端离线运行。
+- 提供中文、英文双语界面。
+- 保留本地图片加载、坐标轴标定、手动取点、数据导出等核心流程。
+- 可通过项目脚本复现构建流程，便于维护和二次调整。
 
 ## 实现效果
 
