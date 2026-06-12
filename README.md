@@ -262,4 +262,40 @@ npm warn deprecated rimraf@3.0.2
 -   Python 依赖
 -   Electron 二进制文件
 
-构建完成后，便携式应用目录可以在无网络环境下运行核心功能。
+## 引用方式
+
+```bibtex
+@software{WebPlotDigitizer,
+  author  = {Rohatgi, Ankit},
+  title   = {WebPlotDigitizer},
+  url     = {https://automeris.io},
+  version = {5.3.0}
+}
+```
+
+> Rohatgi, A. WebPlotDigitizer, version 5.3.0. https://automeris.io.
+
+```bibtex
+@misc{Marin2017WebPlotDigitizer,
+  author        = {Marin, Frédéric and Rohatgi, Ankit and Charlot, Stéphane},
+  title         = {WebPlotDigitizer, a polyvalent and free software to extract spectra from old astronomical publications: application to ultraviolet spectropolarimetry},
+  year          = {2017},
+  eprint        = {1708.02025},
+  archivePrefix = {arXiv},
+  primaryClass  = {astro-ph.IM},
+  doi           = {10.48550/arXiv.1708.02025}
+}
+```
+> Marin, F., Rohatgi, A., Charlot, S., 2017. WebPlotDigitizer, a polyvalent and free software to extract spectra from old astronomical publications: Application to ultraviolet spectropolarimetry. arXiv: Instrumentation and Methods for Astrophysics. https://doi.org/10.48550/arXiv.1708.02025.
+
+```bibtex
+@software{WebPlotDigitizerBilingual,
+  author  = {chugit},
+  title   = {WebPlotDigitizer-Bilingual: Windows bilingual offline desktop build workflow for WebPlotDigitizer},
+  url     = {https://github.com/chugit/WebPlotDigitizer-Bilingual},
+  version = {5.3.0},
+  year    = {2026}
+}
+```
+
+> Chu, J.C., 2026. WebPlotDigitizer-Bilingual. https://github.com/chugit/WebPlotDigitizer-Bilingual.
